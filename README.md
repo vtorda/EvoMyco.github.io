@@ -4,11 +4,13 @@
 ![Genomics](https://img.shields.io/badge/Genomics-Phylogenomics-blue)
 ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen)
 
+Welcome to the **Evolutionary Mycology Team**.
+
 <p align="center">
-  <img src="images/NEETree.png" width="75%">
+  <img src="images/NEETree2.png" width="60%", height="275">
 </p>
 
-Welcome to the **Evolutionary Mycology Team**.
+
 
 Understanding fungal evolution from genomes to ecosystems, across millions of years of Earth history.
 
@@ -59,4 +61,5 @@ Selected publications will be added here.
 Email: t.varga@kew.org
 
 Twitter/X: https://x.com/TordaVarga
-Bluesky: 
+
+Bluesky: https://bsky.app/profile/vtorda.bsky.social
