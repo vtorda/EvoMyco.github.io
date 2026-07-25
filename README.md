@@ -7,7 +7,7 @@
 Welcome to the **Evolutionary Mycology Team**.
 
 <p align="center">
-  <img src="images/NEETree2.png" width="60%", height="275">
+  <img src="images/NEETree2.png" width="60%", height="275" alt="EvoMyco Team Banner">
 </p>
 
 
