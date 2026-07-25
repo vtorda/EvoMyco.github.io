@@ -4,6 +4,10 @@
 ![Genomics](https://img.shields.io/badge/Genomics-Phylogenomics-blue)
 ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen)
 
+<p align="center">
+  <img src="images/banner.png" width="100%">
+</p>
+
 Welcome to the **Evolutionary Mycology Team**.
 
 Understanding fungal evolution from genomes to ecosystems, across millions of years of Earth history.
