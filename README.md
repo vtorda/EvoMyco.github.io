@@ -5,7 +5,7 @@
 ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen)
 
 <p align="center">
-  <img src="images/NEETree.png" width="100%" height="25%">
+  <img src="images/NEETree.png" width="75%">
 </p>
 
 Welcome to the **Evolutionary Mycology Team**.
