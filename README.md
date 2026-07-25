@@ -1,5 +1,7 @@
 ![GitHub Org's stars](https://img.shields.io/github/stars/YourOrg?style=social)
-![License](https://img.shields.io/badge/license-MIT-blue)
+![Research](https://img.shields.io/badge/Research-Fungal%20Evolution-success)
+![Open Science](https://img.shields.io/badge/Open%20Science-Reproducible-brightgreen)
+![Genomics](https://img.shields.io/badge/Genomics-Phylogenomics-blue)
 ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen)
 
 Welcome to the **Evolutionary Mycology Team**.
